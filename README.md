@@ -49,7 +49,7 @@ O **Restaurante.App** é uma aplicação completa que simula o funcionamento de 
   * Total
 
 
-### 📊 Relatório
+### Relatório
 
 * Total vendido
 * Quantidade de pedidos
@@ -124,6 +124,3 @@ Os pedidos são salvos em:
 ```
 /data/pedidos.txt
 ```
-
-
----
