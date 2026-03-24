@@ -1,4 +1,4 @@
-# 🍔 Restaurante.App
+# Restaurante.App
 
 Sistema de gerenciamento de pedidos desenvolvido em Java e orientado a objetos, com interface web simples utilizando servidor HTTP nativo.
 
