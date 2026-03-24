@@ -1,0 +1,29 @@
+
+ID: 1
+Cliente: lucas@123
+Hamburguer - R$ 25.0
+Refrigerante - R$ 8.0
+Batata Frita - R$ 15.0
+Status: ENTREGUE
+-----
+ID: 1
+Cliente: lucasteleslta@gmail.com
+Hamburguer - R$ 25.0
+Pizza - R$ 40.0
+Refrigerante - R$ 8.0
+Batata Frita - R$ 15.0
+Status: ENTREGUE
+-----
+ID: 1
+Cliente: lucasteleslta@gmail.com
+Hamburguer - R$ 50.0
+Pizza - R$ 80.0
+Refrigerante - R$ 16.0
+Batata Frita - R$ 30.0
+Status: ENTREGUE
+-----
+ID: 1
+Cliente: lucastelesalves.eng@gmail.com
+Hamburguer - R$ 1250.0
+Status: EM PREPARO
+-----
