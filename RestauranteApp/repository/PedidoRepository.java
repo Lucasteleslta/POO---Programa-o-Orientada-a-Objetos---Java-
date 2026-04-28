@@ -15,13 +15,13 @@ public class PedidoRepository {
 
     public void salvar(Pedido pedido) {
         try {
-            // 🔥 Garante que a pasta existe
+            // Garante que a pasta existe
             File pasta = new File("data");
             if (!pasta.exists()) {
                 pasta.mkdirs();
             }
 
-            // 🔥 Cria o arquivo
+            // Cria o arquivo
             File arquivo = new File("data/pedidos.txt");
 
             FileWriter writer = new FileWriter(arquivo, true);
